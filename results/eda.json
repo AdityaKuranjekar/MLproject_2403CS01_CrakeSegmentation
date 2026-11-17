@@ -1,0 +1,16 @@
+{
+ "crack_percent_mean": 1.9110598806607522,
+ "crack_percent_min": 0.4669189453125,
+ "crack_percent_max": 7.8460693359375,
+ "components_per_mask_median": 1.0,
+ "per_split_crack_percent": {
+  "train": 2.0234084710842226,
+  "val": 1.60064697265625,
+  "test": 1.7096625434027777
+ },
+ "mean_rgb": [
+  129.7,
+  133.8,
+  138.9
+ ]
+}

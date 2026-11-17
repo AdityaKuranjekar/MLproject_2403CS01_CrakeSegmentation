@@ -1,0 +1,8 @@
+# Install PyTorch for your CUDA first, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+torch>=2.3
+numpy>=1.26
+scipy>=1.11
+pillow>=10
+matplotlib>=3.8
+pytest>=8

@@ -1,0 +1,11 @@
+{
+ "n_pairs": 118,
+ "n_train/val/test": [
+  82,
+  18,
+  18
+ ],
+ "crack_pixel_fraction_raw": 0.01615935191512108,
+ "crack_pixel_fraction_256": 0.01911059880660752,
+ "neg_to_pos_ratio_train": 48.42155843916974
+}

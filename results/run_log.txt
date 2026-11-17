@@ -1,0 +1,7 @@
+w=1   mean val F1=0.7443
+w=2   mean val F1=0.7577
+w=5   mean val F1=0.7361
+w=10  mean val F1=0.7060
+w=20  mean val F1=0.6558
+w=50  mean val F1=0.5929
+selected w* = 2

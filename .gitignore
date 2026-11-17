@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/raw/
+data/cfd256.npz
+results/runs/*/probs.npz
+*.pt
+.pytest_cache/
